@@ -94,7 +94,7 @@ Key.Position = UDim2.new(0.523696661, 0, 0.275000006, 0)
 Key.Size = UDim2.new(0, 190, 0, 47)
 Key.Font = Enum.Font.SpecialElite
 Key.PlaceholderColor3 = Color3.fromRGB(178, 178, 178)
-Key.Text = ""
+Key.Text = "ENTER KEY OR UR GAY"
 Key.TextColor3 = Color3.fromRGB(186, 186, 186)
 Key.TextSize = 14.000
 
